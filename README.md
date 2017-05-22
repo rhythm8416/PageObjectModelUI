@@ -17,7 +17,7 @@ TestWebdriverIoApiPage: This is the Test class created for all the verification 
 Below is the executed test run results with Chrome Browser:
 
 
-Test Run Testng Report:
+Test Run for Testng Report:
 
 ![alt text](https://github.com/rhythm8416/PageObjectModelUI/blob/master/readme-images/Test%20run%201.png)
 
