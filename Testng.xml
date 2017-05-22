@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Page Object test example">
+<parameter name="appURL" value="http://webdriver.io/"/>
+<parameter name="browserType" value="chrome"/>
+  <test name="UI test">
+    <classes>
+      <class name="com.webdriverio.tests.TestWebdriverIoApiPage"/>
+    </classes>
+  </test>
+</suite>

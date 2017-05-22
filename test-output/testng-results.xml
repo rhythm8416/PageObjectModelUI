@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object test example" duration-ms="17375" started-at="2017-05-21T23:55:34Z" finished-at="2017-05-21T23:55:51Z">
+    <groups>
+    </groups>
+    <test name="UI test" duration-ms="17375" started-at="2017-05-21T23:55:34Z" finished-at="2017-05-21T23:55:51Z">
+      <class name="com.webdriverio.tests.TestWebdriverIoApiPage">
+        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:com.webdriverio.tests.TestWebdriverIoApiPage@59fa1d9b]" name="initializeTestBaseSetup" is-config="true" duration-ms="8125" started-at="2017-05-21T19:55:34Z" finished-at="2017-05-21T19:55:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://webdriver.io/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webdriverio.tests.TestWebdriverIoApiPage@59fa1d9b]" name="setUp" is-config="true" duration-ms="0" started-at="2017-05-21T19:55:42Z" finished-at="2017-05-21T19:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAPIPage()[pri:0, instance:com.webdriverio.tests.TestWebdriverIoApiPage@59fa1d9b]" name="verifyAPIPage" duration-ms="8422" started-at="2017-05-21T19:55:42Z" finished-at="2017-05-21T19:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAPIPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webdriverio.tests.TestWebdriverIoApiPage@59fa1d9b]" name="tearDown" is-config="true" duration-ms="813" started-at="2017-05-21T19:55:50Z" finished-at="2017-05-21T19:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webdriverio.tests.TestWebdriverIoApiPage -->
+    </test> <!-- UI test -->
+  </suite> <!-- Page Object test example -->
+</testng-results>
